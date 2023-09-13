@@ -1,1 +1,2 @@
-# discord-themes
+# personal discord themes
+
